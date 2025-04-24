@@ -52,7 +52,7 @@ In the digital age, images have become central to communication, documentation, 
 10. **Age Detection & Manipulation**  
     Applies age progression or regression effects using GAN-based facial transformation models for natural and photorealistic edits.
 
-### Additional AI-Powered Features
+### Additional Features
 
 11. **Generative Fill (Outpainting)**  
     Extends image borders by filling in missing or expanded areas using diffusion models. Ideal for artwork expansion and creative extensions.
