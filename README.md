@@ -1,8 +1,9 @@
-# OptiVim-o
+# OptiVim-o : Optical Visual Modulator and Organizer
 
 > 🌐 Access the platform here: [https://optivimo.online/](https://optivimo.online/)
 
 ## Group Information
+**University:** TOBB University of Economics and Technology
 **Team Name:** FiveHorsemen
 
 ### Team Members
@@ -49,7 +50,7 @@ In the digital age, images have become central to communication, documentation, 
 9. **Background Removal**  
    Leverages semantic segmentation to separate foreground subjects with high accuracy, enabling creative reusability of visual elements.
 
-10. **Age Detection & Manipulation**  
+10. **Age Manipulation**  
     Applies age progression or regression effects using GAN-based facial transformation models for natural and photorealistic edits.
 
 ### Additional Features
@@ -77,5 +78,16 @@ In the digital age, images have become central to communication, documentation, 
 
 ---
 
+## Models, Folders and Files
+For additional info, sprint logs and pages , whole project code in a zip file (including models), logo's, and final project report can be found at : https://drive.google.com/drive/folders/12Td4a5IuKAMbDdW-hPabQqFt4NuL2vW4?usp=drive_link 
+
 ## Contact
 For any additional information or inquiries, please contact us via email: **ksevinc@etu.edu.tr**
+
+## Citation
+If you use this project or find it useful, please cite it as follows:
+
+```
+Korhan Sevinc, Utku Murat Atasoy, Kerem Ay , Umut Özdemir, Süleyman Emir Akın   , GitHub repository, 2025.
+Available at: https://github.com/korhansevinc/OptiVim-o.git
+```
