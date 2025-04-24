@@ -6,11 +6,11 @@
 **Team Name:** FiveHorsemen
 
 ### Team Members
-- Korhan Sevinç - AI Researcher, Student & Team Lead  
-- Umut Özdemir - AI Researcher, Student  
-- Süleyman Emir Akın - AI Researcher, Student  
+- Korhan Sevinç - AI Researcher, Student & Team Lead
 - Utku Murat Atasoy - AI Researcher, Student  
 - Kerem Ay - AI Researcher, Student  
+- Umut Özdemir - AI Researcher, Student  
+- Süleyman Emir Akın - AI Researcher, Student  
 
 ## About Us
 We are a team of passionate senior computer science students dedicated to improving the usage of image enhancement experience. Our diverse backgrounds in software development, design, AI, and user experience help us create innovative solutions for real-world problems.
