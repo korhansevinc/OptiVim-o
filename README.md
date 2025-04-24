@@ -17,7 +17,6 @@ We are a team of passionate senior computer science students dedicated to improv
 
 ## Project Description
 In the digital age, images have become central to communication, documentation, and creative expression. However, existing image editing tools often fall short in meeting the diverse needs of users. Many platforms either offer a limited range of features or require significant technical expertise.
-For additional info, sprint logs and pages , whole project code in a zip file (including models), logo's, and final project report can be found at : https://drive.google.com/drive/folders/12Td4a5IuKAMbDdW-hPabQqFt4NuL2vW4?usp=drive_link 
 
 **OptiVim-o** (Optical Visual Modulator and Organizer) is an all-in-one, AI-powered image enhancement platform that bridges this gap by combining deep learning and modern computer vision techniques with an intuitive interface. The platform supports a variety of advanced features, designed to cater to both professional and casual users.
 
@@ -77,6 +76,9 @@ For additional info, sprint logs and pages , whole project code in a zip file (i
     Improves contrast and brightness using histogram equalization and adaptive machine-learned filters based on content.
 
 ---
+
+## Models, Folders and Files
+For additional info, sprint logs and pages , whole project code in a zip file (including models), logo's, and final project report can be found at : https://drive.google.com/drive/folders/12Td4a5IuKAMbDdW-hPabQqFt4NuL2vW4?usp=drive_link 
 
 ## Contact
 For any additional information or inquiries, please contact us via email: **ksevinc@etu.edu.tr**
