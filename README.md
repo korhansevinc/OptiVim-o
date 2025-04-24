@@ -83,3 +83,11 @@ For additional info, sprint logs and pages , whole project code in a zip file (i
 
 ## Contact
 For any additional information or inquiries, please contact us via email: **ksevinc@etu.edu.tr**
+
+## Citation
+If you use this project or find it useful, please cite it as follows:
+
+```
+Korhan Sevinc, Utku Murat Atasoy, Kerem Ay , Umut Özdemir, Süleyman Emir Akın   , GitHub repository, 2025.
+Available at: https://github.com/korhansevinc/OptiVim-o.git
+```
