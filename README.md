@@ -85,6 +85,11 @@ For additional info, sprint logs and pages , whole project code in a zip file (i
 ## Contact
 For any additional information or inquiries, please contact us via email: **ksevinc@etu.edu.tr**
 
+## Acknowledgements
+
+- Special thanks to [@k4hveci](Mehmet Efe Ergin) for the awesome logo design!
+
+
 ## Citation
 If you use this project or find it useful, please cite it as follows:
 
