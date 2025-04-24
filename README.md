@@ -1,5 +1,7 @@
 # OptiVim-o
 
+> 🌐 Access the platform here: [https://optivimo.online/](https://optivimo.online/)
+
 ## Group Information
 **Team Name:** FiveHorsemen
 
@@ -80,10 +82,5 @@ In the digital age, images have become central to communication, documentation, 
 
 ---
 
-## Installation & Usage Instructions
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/korhansevinc/optivimo
-cd optivimo
-
+## Contact
+For any additional information or inquiries, please contact us via email: **ksevinc@etu.edu.tr**
