@@ -1,4 +1,4 @@
-# OptiVim-o
+# OptiVim-o : Optical Visual Modulator and Organizer
 
 > 🌐 Access the platform here: [https://optivimo.online/](https://optivimo.online/)
 
