@@ -49,7 +49,7 @@ In the digital age, images have become central to communication, documentation, 
 9. **Background Removal**  
    Leverages semantic segmentation to separate foreground subjects with high accuracy, enabling creative reusability of visual elements.
 
-10. **Age Detection & Manipulation**  
+10. **Age Manipulation**  
     Applies age progression or regression effects using GAN-based facial transformation models for natural and photorealistic edits.
 
 ### Additional Features
