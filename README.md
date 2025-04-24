@@ -3,6 +3,7 @@
 > 🌐 Access the platform here: [https://optivimo.online/](https://optivimo.online/)
 
 ## Group Information
+**University:** TOBB University of Economics and Technology
 **Team Name:** FiveHorsemen
 
 ### Team Members
