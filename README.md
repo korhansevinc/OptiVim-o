@@ -87,7 +87,7 @@ For any additional information or inquiries, please contact us via email: **ksev
 
 ## Acknowledgements
 
-- Special thanks to [@k4hveci](Mehmet Efe Ergin) for the awesome logo design!
+- Special thanks to Mehmet Efe Ergin (@K4hveci) for the awesome logo design!
 
 
 ## Citation
