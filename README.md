@@ -12,11 +12,6 @@
 - Utku Murat Atasoy - AI Researcher, Student  
 - Kerem Ay - AI Researcher, Student  
 
-## Project Links
-- **Sprint Board:** [Trello Board](https://trello.com/w/five_horsemen_bitirme)  
-- **GitHub Organization:** Coming Soon  
-- **GitHub Repository:** Coming Soon  
-
 ## About Us
 We are a team of passionate senior computer science students dedicated to improving the usage of image enhancement experience. Our diverse backgrounds in software development, design, AI, and user experience help us create innovative solutions for real-world problems.
 
