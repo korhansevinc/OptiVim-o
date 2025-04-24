@@ -1,0 +1,58 @@
+"use client";
+
+import Link from "next/link";
+import Image from "next/image";
+import { navLinks, transformationTypes } from "@/constants";
+
+const Home = () => {
+  const transformationLinks = navLinks.filter((link) =>
+    link.route.includes("/transformations/add")
+  );
+
+  return (
+    <div className="flex flex-col px-8 py-16 max-w-7xl mx-auto min-h-screen">
+      <div className="text-center mb-12">
+        <h1 className="text-4xl font-bold mb-4">
+          Welcome to <span className="text-violet-600">OptiVim-o</span>
+        </h1>
+        <p className="text-lg text-gray-700 leading-relaxed max-w-3xl mx-auto">
+          OptiVim-o (Optical Visual Modulator and Organizer) is your all-in-one image editing platform powered by the latest machine learning and computer vision technologies. Effortlessly enhance, restore, and transform your images like a pro.
+        </p>
+      </div>
+
+      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-6">
+        {transformationLinks.map((feature, index) => {
+          const key = feature.route.split("/").pop();
+          const transform = transformationTypes[key as keyof typeof transformationTypes];
+
+          return (
+            <Link
+              key={index}
+              href={feature.route}
+              className="flex flex-col items-start gap-2 bg-white border border-gray-200 rounded-xl p-4 hover:shadow-md transition text-left"
+            >
+              <div className="flex items-center gap-3">
+                <div className="w-10 h-10 relative">
+                  <Image
+                    src={feature.icon}
+                    alt={feature.label}
+                    fill
+                    className="object-contain"
+                  />
+                </div>
+                <h3 className="text-lg font-semibold text-gray-800">
+                  {feature.label}
+                </h3>
+              </div>
+              {transform?.subTitle && (
+                <p className="text-sm text-gray-600">{transform.subTitle}</p>
+              )}
+            </Link>
+          );
+        })}
+      </div>
+    </div>
+  );
+};
+
+export default Home;
